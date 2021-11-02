@@ -1,0 +1,51 @@
+
+*{
+  box-sizing: border-box;
+  
+
+}
+
+
+.card{
+  justify-content: center;
+  float: left;
+  margin-top: 20px;
+  margin-left: 40px;
+
+
+}
+.title{
+  
+  display: block;
+  margin: 10px 14px;
+  height:200px;
+  border-radius: 10px;
+  width: 420px;
+  border: 2px solid rgb(255, 0, 128);
+  background-color: rgba(179, 170, 150, 0.897);
+  font-size: 20px;
+  
+  
+}
+.h{
+  display: block;
+  background-color: #ebb916;
+  margin-top: 25px;
+  padding: 12px;
+  text-align: center;
+  height: 100px;
+}
+
+.h3{
+
+margin-left: 20px;
+
+}
+button{
+  width: 100px;
+  margin-top: 5px;
+  margin-right: 20px;
+  margin-left: 20px ;
+  
+}
+
